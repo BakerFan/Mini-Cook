@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 0ffa73ff655f84947b9c3c866ddcb7a9
+timeCreated: 1507026764
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: door01_L
+    100002: door01_L1
+    100004: door01_R
+    100006: door_01
+    100008: glass_01
+    100010: glass_01 1
+    100012: glass_01 2
+    100014: glass_01 3
+    100016: glass_02
+    100018: glass_02 1
+    100020: glass_02 2
+    100022: glass_02 3
+    100024: key3
+    100026: //RootNode
+    100028: wall_01
+    100030: window01_01
+    100032: window01_02
+    100034: kr_door_01_01
+    400000: door01_L
+    400002: door01_L1
+    400004: door01_R
+    400006: door_01
+    400008: glass_01
+    400010: glass_01 1
+    400012: glass_01 2
+    400014: glass_01 3
+    400016: glass_02
+    400018: glass_02 1
+    400020: glass_02 2
+    400022: glass_02 3
+    400024: key3
+    400026: //RootNode
+    400028: wall_01
+    400030: window01_01
+    400032: window01_02
+    400034: kr_door_01_01
+    2300000: door01_L
+    2300002: door01_L1
+    2300004: door01_R
+    2300006: door_01
+    2300008: glass_01
+    2300010: glass_01 1
+    2300012: glass_01 2
+    2300014: glass_01 3
+    2300016: glass_02
+    2300018: glass_02 1
+    2300020: glass_02 2
+    2300022: glass_02 3
+    2300024: key3
+    2300026: wall_01
+    2300028: window01_01
+    2300030: window01_02
+    3300000: door01_L
+    3300002: door01_L1
+    3300004: door01_R
+    3300006: door_01
+    3300008: glass_01
+    3300010: glass_01 1
+    3300012: glass_01 2
+    3300014: glass_01 3
+    3300016: glass_02
+    3300018: glass_02 1
+    3300020: glass_02 2
+    3300022: glass_02 3
+    3300024: key3
+    3300026: wall_01
+    3300028: window01_01
+    3300030: window01_02
+    4300000: door_01
+    4300002: wall_01
+    4300004: window01_01
+    4300006: glass_02
+    4300008: glass_01
+    4300010: window01_02
+    4300012: glass_02
+    4300014: glass_01
+    4300016: key3
+    4300018: door01_R
+    4300020: door01_L1
+    4300022: glass_01
+    4300024: glass_02
+    4300026: door01_L
+    4300028: glass_02
+    4300030: glass_01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

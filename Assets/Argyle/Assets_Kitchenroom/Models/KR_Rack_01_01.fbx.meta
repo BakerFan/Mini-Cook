@@ -1,0 +1,360 @@
+fileFormatVersion: 2
+guid: 2413facefe8c8ce4d8a65311d403d48c
+timeCreated: 1507189161
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: drawer5
+    100002: drawer6
+    100004: drawer7
+    100006: drawer8
+    100008: EX_door01_R
+    100010: EX_door01_R2
+    100012: EX_door01_R3
+    100014: EX_door01_R4
+    100016: EX_door02_L1
+    100018: EX_door02_R
+    100020: EX_door02_R1
+    100022: EX_door02_R2
+    100024: EX_door02_R3
+    100026: EX_door02_R4
+    100028: EX_glass02
+    100030: EX_glass02 1
+    100032: EX_glass02 2
+    100034: EX_glass02 3
+    100036: EX_rack01
+    100038: EX_rack02
+    100040: EX_rack03
+    100042: EX_rack04_DUP
+    100044: EX_rack05_DUP
+    100046: EX_rack06_DUP
+    100048: EX_rack07_DUP
+    100050: EX_rack07_DUP1
+    100052: EX_rack07_DUP2
+    100054: group1
+    100056: //RootNode
+    100058: EX_door02_R10
+    100060: EX_door02_R5
+    100062: EX_door02_R6
+    100064: EX_door02_R7
+    100066: EX_door02_R8
+    100068: EX_door02_R9
+    100070: EX_rack04_DUP1
+    100072: door01_L1
+    100074: door01_L2
+    100076: door01_R1
+    100078: door01_R2
+    100080: door02_1
+    100082: door02_2
+    100084: door02_3
+    100086: door02_4
+    100088: door03_L1
+    100090: door03_R1
+    100092: door04_L1
+    100094: door04_R1
+    100096: door05_L1
+    100098: door05_R1
+    100100: EX_glass03
+    100102: EX_glass03 1
+    100104: rack_01_01
+    100106: rack_01_02
+    100108: polySurface1
+    100110: glass01
+    100112: glass01 1
+    100114: glass01 2
+    100116: glass01 3
+    400000: drawer5
+    400002: drawer6
+    400004: drawer7
+    400006: drawer8
+    400008: EX_door01_R
+    400010: EX_door01_R2
+    400012: EX_door01_R3
+    400014: EX_door01_R4
+    400016: EX_door02_L1
+    400018: EX_door02_R
+    400020: EX_door02_R1
+    400022: EX_door02_R2
+    400024: EX_door02_R3
+    400026: EX_door02_R4
+    400028: EX_glass02
+    400030: EX_glass02 1
+    400032: EX_glass02 2
+    400034: EX_glass02 3
+    400036: EX_rack01
+    400038: EX_rack02
+    400040: EX_rack03
+    400042: EX_rack04_DUP
+    400044: EX_rack05_DUP
+    400046: EX_rack06_DUP
+    400048: EX_rack07_DUP
+    400050: EX_rack07_DUP1
+    400052: EX_rack07_DUP2
+    400054: group1
+    400056: //RootNode
+    400058: EX_door02_R10
+    400060: EX_door02_R5
+    400062: EX_door02_R6
+    400064: EX_door02_R7
+    400066: EX_door02_R8
+    400068: EX_door02_R9
+    400070: EX_rack04_DUP1
+    400072: door01_L1
+    400074: door01_L2
+    400076: door01_R1
+    400078: door01_R2
+    400080: door02_1
+    400082: door02_2
+    400084: door02_3
+    400086: door02_4
+    400088: door03_L1
+    400090: door03_R1
+    400092: door04_L1
+    400094: door04_R1
+    400096: door05_L1
+    400098: door05_R1
+    400100: EX_glass03
+    400102: EX_glass03 1
+    400104: rack_01_01
+    400106: rack_01_02
+    400108: polySurface1
+    400110: glass01
+    400112: glass01 1
+    400114: glass01 2
+    400116: glass01 3
+    2300000: drawer5
+    2300002: drawer6
+    2300004: drawer7
+    2300006: drawer8
+    2300008: EX_door01_R
+    2300010: EX_door01_R2
+    2300012: EX_door01_R3
+    2300014: EX_door01_R4
+    2300016: EX_door02_L1
+    2300018: EX_door02_R
+    2300020: EX_door02_R1
+    2300022: EX_door02_R2
+    2300024: EX_door02_R3
+    2300026: EX_door02_R4
+    2300028: EX_glass02
+    2300030: EX_glass02 1
+    2300032: EX_glass02 2
+    2300034: EX_glass02 3
+    2300036: EX_rack01
+    2300038: EX_rack02
+    2300040: EX_rack03
+    2300042: EX_rack04_DUP
+    2300044: EX_rack05_DUP
+    2300046: EX_rack06_DUP
+    2300048: EX_rack07_DUP
+    2300050: EX_rack07_DUP1
+    2300052: EX_rack07_DUP2
+    2300054: EX_door02_R10
+    2300056: EX_door02_R5
+    2300058: EX_door02_R6
+    2300060: EX_door02_R7
+    2300062: EX_door02_R8
+    2300064: EX_door02_R9
+    2300066: EX_rack04_DUP1
+    2300068: door01_L1
+    2300070: door01_L2
+    2300072: door01_R1
+    2300074: door01_R2
+    2300076: door02_1
+    2300078: door02_2
+    2300080: door02_3
+    2300082: door02_4
+    2300084: door03_L1
+    2300086: door03_R1
+    2300088: door04_L1
+    2300090: door04_R1
+    2300092: door05_L1
+    2300094: door05_R1
+    2300096: EX_glass03
+    2300098: EX_glass03 1
+    2300100: rack_01_01
+    2300102: rack_01_02
+    2300104: polySurface1
+    2300106: glass01
+    2300108: glass01 1
+    2300110: glass01 2
+    2300112: glass01 3
+    3300000: drawer5
+    3300002: drawer6
+    3300004: drawer7
+    3300006: drawer8
+    3300008: EX_door01_R
+    3300010: EX_door01_R2
+    3300012: EX_door01_R3
+    3300014: EX_door01_R4
+    3300016: EX_door02_L1
+    3300018: EX_door02_R
+    3300020: EX_door02_R1
+    3300022: EX_door02_R2
+    3300024: EX_door02_R3
+    3300026: EX_door02_R4
+    3300028: EX_glass02
+    3300030: EX_glass02 1
+    3300032: EX_glass02 2
+    3300034: EX_glass02 3
+    3300036: EX_rack01
+    3300038: EX_rack02
+    3300040: EX_rack03
+    3300042: EX_rack04_DUP
+    3300044: EX_rack05_DUP
+    3300046: EX_rack06_DUP
+    3300048: EX_rack07_DUP
+    3300050: EX_rack07_DUP1
+    3300052: EX_rack07_DUP2
+    3300054: EX_door02_R10
+    3300056: EX_door02_R5
+    3300058: EX_door02_R6
+    3300060: EX_door02_R7
+    3300062: EX_door02_R8
+    3300064: EX_door02_R9
+    3300066: EX_rack04_DUP1
+    3300068: door01_L1
+    3300070: door01_L2
+    3300072: door01_R1
+    3300074: door01_R2
+    3300076: door02_1
+    3300078: door02_2
+    3300080: door02_3
+    3300082: door02_4
+    3300084: door03_L1
+    3300086: door03_R1
+    3300088: door04_L1
+    3300090: door04_R1
+    3300092: door05_L1
+    3300094: door05_R1
+    3300096: EX_glass03
+    3300098: EX_glass03 1
+    3300100: rack_01_01
+    3300102: rack_01_02
+    3300104: polySurface1
+    3300106: glass01
+    3300108: glass01 1
+    3300110: glass01 2
+    3300112: glass01 3
+    4300000: EX_rack01
+    4300002: EX_door01_R
+    4300004: EX_glass02
+    4300006: EX_door02_R
+    4300008: EX_rack03
+    4300010: EX_rack04_DUP
+    4300012: EX_rack05_DUP
+    4300014: EX_door01_R2
+    4300016: EX_glass02
+    4300018: EX_door01_R3
+    4300020: EX_glass02
+    4300022: EX_door01_R4
+    4300024: EX_glass02
+    4300026: EX_door02_R2
+    4300028: EX_rack06_DUP
+    4300030: EX_door02_R3
+    4300032: EX_door02_R4
+    4300034: EX_rack07_DUP
+    4300036: EX_rack07_DUP1
+    4300038: EX_rack07_DUP2
+    4300040: EX_rack02
+    4300042: EX_door02_R1
+    4300044: EX_door02_L1
+    4300046: drawer5
+    4300048: drawer6
+    4300050: drawer8
+    4300052: drawer7
+    4300054: EX_door02_R5
+    4300056: EX_door02_R6
+    4300058: EX_door02_R7
+    4300060: EX_door02_R8
+    4300062: EX_door02_R9
+    4300064: EX_door02_R10
+    4300066: EX_rack04_DUP1
+    4300068: rack_01_01
+    4300070: rack_01_02
+    4300072: door01_L1
+    4300074: door01_L2
+    4300076: door01_R1
+    4300078: door01_R2
+    4300080: door02_1
+    4300082: door02_2
+    4300084: door02_3
+    4300086: door02_4
+    4300088: door03_R1
+    4300090: door03_L1
+    4300092: door04_L1
+    4300094: EX_glass03
+    4300096: door04_R1
+    4300098: EX_glass03
+    4300100: door05_L1
+    4300102: door05_R1
+    4300104: polySurface1
+    4300106: glass01
+    4300108: glass01
+    4300110: glass01
+    4300112: glass01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

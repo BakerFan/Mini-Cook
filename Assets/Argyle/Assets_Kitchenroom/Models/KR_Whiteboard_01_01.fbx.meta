@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: fc4b7801e3fe5fd4690f228852f6d811
+timeCreated: 1508484962
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: erase_01
+    100002: erase_02
+    100004: //RootNode
+    100006: magnet
+    100008: magnet_01
+    100010: magnet_02
+    100012: magnet_03
+    100014: magnet_04
+    100016: magnet_05
+    100018: magnet_06
+    100020: Marker_B_01
+    100022: Marker_BK_01
+    100024: Marker_BK_02
+    100026: Marker_R_01
+    100028: Marker_R_02
+    100030: whiteboard01
+    400000: erase_01
+    400002: erase_02
+    400004: //RootNode
+    400006: magnet
+    400008: magnet_01
+    400010: magnet_02
+    400012: magnet_03
+    400014: magnet_04
+    400016: magnet_05
+    400018: magnet_06
+    400020: Marker_B_01
+    400022: Marker_BK_01
+    400024: Marker_BK_02
+    400026: Marker_R_01
+    400028: Marker_R_02
+    400030: whiteboard01
+    2300000: erase_01
+    2300002: erase_02
+    2300004: magnet_01
+    2300006: magnet_02
+    2300008: magnet_03
+    2300010: magnet_04
+    2300012: magnet_05
+    2300014: magnet_06
+    2300016: Marker_B_01
+    2300018: Marker_BK_01
+    2300020: Marker_BK_02
+    2300022: Marker_R_01
+    2300024: Marker_R_02
+    2300026: whiteboard01
+    3300000: erase_01
+    3300002: erase_02
+    3300004: magnet_01
+    3300006: magnet_02
+    3300008: magnet_03
+    3300010: magnet_04
+    3300012: magnet_05
+    3300014: magnet_06
+    3300016: Marker_B_01
+    3300018: Marker_BK_01
+    3300020: Marker_BK_02
+    3300022: Marker_R_01
+    3300024: Marker_R_02
+    3300026: whiteboard01
+    4300000: magnet_01
+    4300002: magnet_02
+    4300004: magnet_03
+    4300006: magnet_04
+    4300008: magnet_05
+    4300010: magnet_06
+    4300012: erase_01
+    4300014: erase_02
+    4300016: Marker_R_02
+    4300018: Marker_BK_02
+    4300020: Marker_BK_01
+    4300022: Marker_B_01
+    4300024: Marker_R_01
+    4300026: whiteboard01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
