@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 9eb25e4e5a823a44194bf997e0c8325c
+timeCreated: 1508394185
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: crisper
+    100002: door_a
+    100004: door_b
+    100006: door_c
+    100008: egg_holder
+    100010: ice_scoop
+    100012: //RootNode
+    100014: refrigerator_crisper
+    100016: refrigerator_crisper_alpha
+    100018: refrigerator_door_a
+    100020: refrigerator_door_a_alpha
+    100022: refrigerator_door_b01
+    100024: refrigerator_door_b02
+    100026: refrigerator_door_c01
+    100028: refrigerator_door_c02
+    100030: refrigerator_main
+    100032: refrigerator_main_alpha
+    100034: tank
+    100036: water_tank
+    100038: water_tank_alpha
+    400000: crisper
+    400002: door_a
+    400004: door_b
+    400006: door_c
+    400008: egg_holder
+    400010: ice_scoop
+    400012: //RootNode
+    400014: refrigerator_crisper
+    400016: refrigerator_crisper_alpha
+    400018: refrigerator_door_a
+    400020: refrigerator_door_a_alpha
+    400022: refrigerator_door_b01
+    400024: refrigerator_door_b02
+    400026: refrigerator_door_c01
+    400028: refrigerator_door_c02
+    400030: refrigerator_main
+    400032: refrigerator_main_alpha
+    400034: tank
+    400036: water_tank
+    400038: water_tank_alpha
+    2300000: egg_holder
+    2300002: ice_scoop
+    2300004: refrigerator_crisper
+    2300006: refrigerator_crisper_alpha
+    2300008: refrigerator_door_a
+    2300010: refrigerator_door_a_alpha
+    2300012: refrigerator_door_b01
+    2300014: refrigerator_door_b02
+    2300016: refrigerator_door_c01
+    2300018: refrigerator_door_c02
+    2300020: refrigerator_main
+    2300022: refrigerator_main_alpha
+    2300024: water_tank
+    2300026: water_tank_alpha
+    3300000: egg_holder
+    3300002: ice_scoop
+    3300004: refrigerator_crisper
+    3300006: refrigerator_crisper_alpha
+    3300008: refrigerator_door_a
+    3300010: refrigerator_door_a_alpha
+    3300012: refrigerator_door_b01
+    3300014: refrigerator_door_b02
+    3300016: refrigerator_door_c01
+    3300018: refrigerator_door_c02
+    3300020: refrigerator_main
+    3300022: refrigerator_main_alpha
+    3300024: water_tank
+    3300026: water_tank_alpha
+    4300000: refrigerator_main
+    4300002: refrigerator_main_alpha
+    4300004: refrigerator_door_a
+    4300006: refrigerator_door_a_alpha
+    4300008: egg_holder
+    4300010: refrigerator_crisper
+    4300012: refrigerator_crisper_alpha
+    4300014: water_tank
+    4300016: water_tank_alpha
+    4300018: refrigerator_door_b01
+    4300020: refrigerator_door_b02
+    4300022: refrigerator_door_c01
+    4300024: refrigerator_door_c02
+    4300026: ice_scoop
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

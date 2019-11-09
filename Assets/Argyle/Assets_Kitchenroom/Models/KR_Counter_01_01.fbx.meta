@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: e0ad133182f59d04faeb23083261803d
+timeCreated: 1507032094
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: door1_l
+    100002: door1_r
+    100004: door2_l
+    100006: door2_r
+    100008: door3_l
+    100010: door3_r
+    100012: door4_l
+    100014: door4_r
+    100016: drawer1
+    100018: drawer2
+    100020: faucet
+    100022: handle_l
+    100024: handle_r
+    100026: //RootNode
+    100028: KR_counterobj_01_01
+    100030: nozzle_l1
+    100032: nozzle_l2
+    100034: nozzle_r1
+    100036: nozzle_r2
+    100038: pipe
+    100040: tabletop1
+    100042: tabletop2
+    100044: teachers_counter
+    100046: valve
+    400000: door1_l
+    400002: door1_r
+    400004: door2_l
+    400006: door2_r
+    400008: door3_l
+    400010: door3_r
+    400012: door4_l
+    400014: door4_r
+    400016: drawer1
+    400018: drawer2
+    400020: faucet
+    400022: handle_l
+    400024: handle_r
+    400026: //RootNode
+    400028: KR_counterobj_01_01
+    400030: nozzle_l1
+    400032: nozzle_l2
+    400034: nozzle_r1
+    400036: nozzle_r2
+    400038: pipe
+    400040: tabletop1
+    400042: tabletop2
+    400044: teachers_counter
+    400046: valve
+    2300000: door1_l
+    2300002: door1_r
+    2300004: door2_l
+    2300006: door2_r
+    2300008: door3_l
+    2300010: door3_r
+    2300012: door4_l
+    2300014: door4_r
+    2300016: drawer1
+    2300018: drawer2
+    2300020: faucet
+    2300022: handle_l
+    2300024: handle_r
+    2300026: nozzle_l1
+    2300028: nozzle_l2
+    2300030: nozzle_r1
+    2300032: nozzle_r2
+    2300034: pipe
+    2300036: tabletop1
+    2300038: tabletop2
+    2300040: teachers_counter
+    2300042: valve
+    2300044: KR_counterobj_01_01
+    3300000: door1_l
+    3300002: door1_r
+    3300004: door2_l
+    3300006: door2_r
+    3300008: door3_l
+    3300010: door3_r
+    3300012: door4_l
+    3300014: door4_r
+    3300016: drawer1
+    3300018: drawer2
+    3300020: faucet
+    3300022: handle_l
+    3300024: handle_r
+    3300026: nozzle_l1
+    3300028: nozzle_l2
+    3300030: nozzle_r1
+    3300032: nozzle_r2
+    3300034: pipe
+    3300036: tabletop1
+    3300038: tabletop2
+    3300040: teachers_counter
+    3300042: valve
+    3300044: KR_counterobj_01_01
+    4300000: teachers_counter
+    4300002: door1_l
+    4300004: door1_r
+    4300006: door2_l
+    4300008: door2_r
+    4300010: door3_l
+    4300012: door3_r
+    4300014: door4_l
+    4300016: door4_r
+    4300018: drawer1
+    4300020: drawer2
+    4300022: faucet
+    4300024: nozzle_l1
+    4300026: nozzle_l2
+    4300028: handle_l
+    4300030: nozzle_r1
+    4300032: nozzle_r2
+    4300034: handle_r
+    4300036: tabletop1
+    4300038: tabletop2
+    4300040: pipe
+    4300042: valve
+    4300044: KR_counterobj_01_01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

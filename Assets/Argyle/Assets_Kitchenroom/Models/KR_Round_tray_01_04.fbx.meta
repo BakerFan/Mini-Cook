@@ -1,0 +1,1892 @@
+fileFormatVersion: 2
+guid: 0f2c807acf231724b9586dcd78024fc1
+timeCreated: 1508390403
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: blade_01
+    100002: body
+    100004: body01
+    100006: bowl
+    100008: bucket_01
+    100010: bucket_handle_01
+    100012: can_opener_01
+    100014: caster_01
+    100016: caster_01 1
+    100018: caster_02
+    100020: caster_02 1
+    100022: caster_03
+    100024: caster_03 1
+    100026: caster_04
+    100028: caster_04 1
+    100030: chopsticks_01
+    100032: chopsticks_01 1
+    100034: chopsticks_01 2
+    100036: chopsticks_01 3
+    100038: chopsticks_01 4
+    100040: chopsticks_02
+    100042: chopsticks_02 1
+    100044: chopsticks_02 2
+    100046: chopsticks_02 3
+    100048: chopsticks_02 4
+    100050: clock_01
+    100052: collision
+    100054: counter_for_students
+    100056: dish01
+    100058: display01
+    100060: door01
+    100062: door01_L
+    100064: door01_L 1
+    100066: door01_L1
+    100068: door01_L1 1
+    100070: door01_L1 2
+    100072: door01_L1 3
+    100074: door01_L2
+    100076: door01_R
+    100078: door01_R 1
+    100080: door01_R1
+    100082: door01_R1 1
+    100084: door01_R2
+    100086: door02_1
+    100088: door02_2
+    100090: door02_3
+    100092: door02_4
+    100094: door03_L1
+    100096: door03_R1
+    100098: door04_L1
+    100100: door04_R1
+    100102: door05_L1
+    100104: door05_R1
+    100106: door1_l
+    100108: door1_l 1
+    100110: door1_r
+    100112: door1_r 1
+    100114: door2_l
+    100116: door2_l 1
+    100118: door2_r
+    100120: door2_r 1
+    100122: door3_l
+    100124: door3_l 1
+    100126: door3_r
+    100128: door3_r 1
+    100130: door4_l
+    100132: door4_l 1
+    100134: door4_r
+    100136: door4_r 1
+    100138: door_01
+    100140: door_01 1
+    100142: door_01 2
+    100144: door_frame01
+    100146: doorknob
+    100148: drawer1
+    100150: drawer1 1
+    100152: drawer2
+    100154: drawer2 1
+    100156: drawer3
+    100158: drawer4
+    100160: duster_01
+    100162: duster_02
+    100164: duster_03
+    100166: duster_04
+    100168: duster_05
+    100170: duster_06
+    100172: Electricpot
+    100174: fan
+    100176: fastener01
+    100178: fastener02
+    100180: faucet
+    100182: faucet 1
+    100184: Fire_extinguisher_01_01
+    100186: Fire_extinguisher_stand
+    100188: fish_adjustment_fire
+    100190: fish_roaster
+    100192: fish_roaster_switch
+    100194: flame01
+    100196: gasrange
+    100198: glass01
+    100200: glass01 1
+    100202: glass01 10
+    100204: glass01 11
+    100206: glass01 12
+    100208: glass01 2
+    100210: glass01 3
+    100212: glass01 4
+    100214: glass01 5
+    100216: glass01 6
+    100218: glass01 7
+    100220: glass01 8
+    100222: glass01 9
+    100224: glass02
+    100226: glass02 1
+    100228: glass02 2
+    100230: glass02 3
+    100232: glass02 4
+    100234: glass02 5
+    100236: glass02 6
+    100238: glass02 7
+    100240: glass1
+    100242: glass_01
+    100244: glass_01 1
+    100246: glass_01 10
+    100248: glass_01 11
+    100250: glass_01 12
+    100252: glass_01 2
+    100254: glass_01 3
+    100256: glass_01 4
+    100258: glass_01 5
+    100260: glass_01 6
+    100262: glass_01 7
+    100264: glass_01 8
+    100266: glass_01 9
+    100268: glass_02
+    100270: glass_02 1
+    100272: glass_02 10
+    100274: glass_02 11
+    100276: glass_02 12
+    100278: glass_02 2
+    100280: glass_02 3
+    100282: glass_02 4
+    100284: glass_02 5
+    100286: glass_02 6
+    100288: glass_02 7
+    100290: glass_02 8
+    100292: glass_02 9
+    100294: grill
+    100296: Handle
+    100298: handle
+    100300: handle01
+    100302: handle_l
+    100304: handle_l 1
+    100306: handle_r
+    100308: handle_r 1
+    100310: hook01
+    100312: hook02
+    100314: hook03
+    100316: hook04
+    100318: hook05
+    100320: hook06
+    100322: hook07
+    100324: hook08
+    100326: hook09
+    100328: hook11
+    100330: hook12
+    100332: hook13
+    100334: hook14
+    100336: hook15
+    100338: hook16
+    100340: hook17
+    100342: hour_hand
+    100344: huta01
+    100346: huta02
+    100348: huta03
+    100350: huta04
+    100352: kettle01
+    100354: key1
+    100356: key1 1
+    100358: key2
+    100360: key3
+    100362: key3 1
+    100364: key3 2
+    100366: key3 3
+    100368: key4
+    100370: knob01
+    100372: kr_a_spatula_01_01
+    100374: kr_add_effect_01_01
+    100376: kr_add_effect_01_02
+    100378: kr_air_conditioner_01_01
+    100380: kr_aircon_switch_01_01
+    100382: kr_bleach_01_01
+    100384: kr_bowl_01_01
+    100386: kr_bowl_01_02
+    100388: kr_bowl_01_03
+    100390: kr_bowl_01_04
+    100392: kr_bowl_01_05
+    100394: kr_bowl_01_06
+    100396: kr_bucket_01_01
+    100398: kr_can_opener_01_01
+    100400: kr_cardboard_01_01
+    100402: kr_cardboard_01_02
+    100404: kr_ceiling_01_01
+    100406: kr_ceiling_parts_01_01
+    100408: kr_ceiling_parts_02_01
+    100410: kr_ceiling_parts_03_01
+    100412: kr_chair_01_01
+    100414: kr_chair_01_02
+    100416: kr_chopstick_stand_01_01
+    100418: kr_chopsticks_01_01
+    100420: kr_chopsticks_01_02
+    100422: kr_chopsticks_01_03
+    100424: kr_chopsticks_01_04
+    100426: kr_chopsticks_01_05
+    100428: kr_cleanser_01_01
+    100430: kr_clock_01_01
+    100432: kr_colander_01_01
+    100434: kr_counter_01_01
+    100436: kr_counter_01_02
+    100438: KR_counterobj_01_01
+    100440: kr_counterobj_01_01
+    100442: KR_counterobj_01_01 1
+    100444: KR_counterobj_01_01 2
+    100446: kr_cutting_board_01_01
+    100448: kr_detergent_01_01
+    100450: KR_dial_01_01
+    100452: KR_door_01_01
+    100454: kr_door_01_01
+    100456: kr_door_01_02
+    100458: kr_door_02_01
+    100460: KR_door_col_01_01
+    100462: KR_door_col_01_02
+    100464: KR_door_col_02_01
+    100466: kr_drainer_basket_01_01
+    100468: kr_drainer_basket_01_02
+    100470: kr_electricpot_01_01
+    100472: kr_electronic_scale_01_01
+    100474: kr_fire_extinguisher_01_01
+    100476: kr_flat_tray_01_01
+    100478: kr_floor_01_01
+    100480: kr_fork_01_01
+    100482: kr_garbage_can_01_01
+    100484: kr_garbage_can_01_02
+    100486: kr_garbage_can_01_03
+    100488: kr_gasrange_01_01
+    100490: kr_hand_soap_01_01
+    100492: kr_hook_01_01
+    100494: kr_kettle_01_01
+    100496: kr_knife_01_01
+    100498: kr_knife_01_02
+    100500: kr_knife_01_03
+    100502: kr_ladle_01_01
+    100504: kr_light_01_01
+    100506: kr_light_02_01
+    100508: kr_light_switch_01_01
+    100510: kr_locker_01_01
+    100512: kr_measuring_spoons_01_01
+    100514: KR_microwave_01_01
+    100516: kr_microwave_01_01
+    100518: kr_mug_01_01
+    100520: kr_mug_01_02
+    100522: kr_outlet_01_01
+    100524: kr_peeler_01_01
+    100526: kr_pillar_01_01
+    100528: kr_pillar_01_02
+    100530: kr_place_sponge_01_01
+    100532: kr_plastic_tub_01_01
+    100534: kr_plastic_tub_01_02
+    100536: kr_pot_01_01
+    100538: kr_pot_01_02
+    100540: kr_rack_01_01
+    100542: kr_rack_02_01
+    100544: kr_rack_03_01
+    100546: kr_rack_wagon_01_01
+    100548: kr_rack_wagon_01_02
+    100550: kr_rice_bowl_01_01
+    100552: kr_rice_bowl_01_02
+    100554: kr_ricecooker_01_01
+    100556: kr_ricespatula_01_01
+    100558: kr_rolled_egg_making_pan_01_01
+    100560: kr_rolled_egg_making_pan_01_03
+    100562: KR_roller_stand_01_01
+    100564: kr_rolling_pin_01_0_1
+    100566: kr_round_tray_01_01
+    100568: kr_round_tray_01_02
+    100570: kr_round_tray_01_03
+    100572: //RootNode
+    100574: kr_round_tray_01_04
+    100576: kr_scale_01_01
+    100578: kr_scrub_brush_01_01
+    100580: kr_skillet_01_01
+    100582: kr_skillet_01_02
+    100584: kr_soup_bowl_01_01
+    100586: kr_soup_bowl_01_02
+    100588: kr_spatula_01_01
+    100590: kr_spatula_01_02
+    100592: kr_speaker_01_01
+    100594: kr_sponge_01_01
+    100596: kr_spoon_01_01
+    100598: kr_steel_tray_01_01
+    100600: kr_tea_bowl_01_01
+    100602: kr_tea_bowl_01_02
+    100604: kr_tongs_01_01
+    100606: kr_towel_rack_01_01
+    100608: kr_triangular_sink_tidy_01_01
+    100610: KR_turntable_01_01
+    100612: kr_ventilator_01_01
+    100614: kr_wall_01_01
+    100616: kr_whisk_01_01
+    100618: kr_window_01_01
+    100620: left_adjustment_fire
+    100622: left_stove_switch
+    100624: Lid
+    100626: lid
+    100628: lid 1
+    100630: lid01
+    100632: lid01 1
+    100634: lid01 2
+    100636: lid01 3
+    100638: lid01 4
+    100640: lid01 5
+    100642: light01
+    100644: light01 1
+    100646: light02
+    100648: light02 1
+    100650: light_switch_01
+    100652: locker_01
+    100654: locker_door_01
+    100656: mainbody
+    100658: minute_hand
+    100660: nozzle_l1
+    100662: nozzle_l1 1
+    100664: nozzle_l2
+    100666: nozzle_l2 1
+    100668: nozzle_r1
+    100670: nozzle_r1 1
+    100672: nozzle_r2
+    100674: nozzle_r2 1
+    100676: original_classroom
+    100678: pan01
+    100680: pan01 1
+    100682: peeler_01
+    100684: pointer01
+    100686: pot
+    100688: pot01
+    100690: pot01 1
+    100692: rack_01_01
+    100694: rack_01_02
+    100696: rack_02_01
+    100698: rack_wagon
+    100700: rack_wagon 1
+    100702: right_adjustment_fire
+    100704: right_stove_switch
+    100706: second_hand
+    100708: shw_garbage_can01
+    100710: shw_hook01
+    100712: switch1
+    100714: switch2
+    100716: tabletop1
+    100718: tabletop1 1
+    100720: tabletop2
+    100722: tabletop2 1
+    100724: teachers_counter
+    100726: Towel_rack
+    100728: valve
+    100730: valve 1
+    100732: valve 2
+    100734: wall01
+    100736: wall01 1
+    100738: wall_01
+    100740: wall_01 1
+    100742: weighing_dish01
+    100744: window
+    100746: window 1
+    100748: window01_01
+    100750: window01_01 1
+    100752: window01_01 2
+    100754: window01_01 3
+    100756: window01_02
+    100758: window01_02 1
+    100760: window01_02 2
+    100762: window01_02 3
+    100764: window01_03
+    100766: window01_04
+    100768: window02_01
+    100770: window02_01 1
+    100772: window02_02
+    100774: window02_02 1
+    100776: window02_03
+    100778: window02_04
+    100780: window_01
+    100782: wine_opener0_1
+    400000: blade_01
+    400002: body
+    400004: body01
+    400006: bowl
+    400008: bucket_01
+    400010: bucket_handle_01
+    400012: can_opener_01
+    400014: caster_01
+    400016: caster_01 1
+    400018: caster_02
+    400020: caster_02 1
+    400022: caster_03
+    400024: caster_03 1
+    400026: caster_04
+    400028: caster_04 1
+    400030: chopsticks_01
+    400032: chopsticks_01 1
+    400034: chopsticks_01 2
+    400036: chopsticks_01 3
+    400038: chopsticks_01 4
+    400040: chopsticks_02
+    400042: chopsticks_02 1
+    400044: chopsticks_02 2
+    400046: chopsticks_02 3
+    400048: chopsticks_02 4
+    400050: clock_01
+    400052: collision
+    400054: counter_for_students
+    400056: dish01
+    400058: display01
+    400060: door01
+    400062: door01_L
+    400064: door01_L 1
+    400066: door01_L1
+    400068: door01_L1 1
+    400070: door01_L1 2
+    400072: door01_L1 3
+    400074: door01_L2
+    400076: door01_R
+    400078: door01_R 1
+    400080: door01_R1
+    400082: door01_R1 1
+    400084: door01_R2
+    400086: door02_1
+    400088: door02_2
+    400090: door02_3
+    400092: door02_4
+    400094: door03_L1
+    400096: door03_R1
+    400098: door04_L1
+    400100: door04_R1
+    400102: door05_L1
+    400104: door05_R1
+    400106: door1_l
+    400108: door1_l 1
+    400110: door1_r
+    400112: door1_r 1
+    400114: door2_l
+    400116: door2_l 1
+    400118: door2_r
+    400120: door2_r 1
+    400122: door3_l
+    400124: door3_l 1
+    400126: door3_r
+    400128: door3_r 1
+    400130: door4_l
+    400132: door4_l 1
+    400134: door4_r
+    400136: door4_r 1
+    400138: door_01
+    400140: door_01 1
+    400142: door_01 2
+    400144: door_frame01
+    400146: doorknob
+    400148: drawer1
+    400150: drawer1 1
+    400152: drawer2
+    400154: drawer2 1
+    400156: drawer3
+    400158: drawer4
+    400160: duster_01
+    400162: duster_02
+    400164: duster_03
+    400166: duster_04
+    400168: duster_05
+    400170: duster_06
+    400172: Electricpot
+    400174: fan
+    400176: fastener01
+    400178: fastener02
+    400180: faucet
+    400182: faucet 1
+    400184: Fire_extinguisher_01_01
+    400186: Fire_extinguisher_stand
+    400188: fish_adjustment_fire
+    400190: fish_roaster
+    400192: fish_roaster_switch
+    400194: flame01
+    400196: gasrange
+    400198: glass01
+    400200: glass01 1
+    400202: glass01 10
+    400204: glass01 11
+    400206: glass01 12
+    400208: glass01 2
+    400210: glass01 3
+    400212: glass01 4
+    400214: glass01 5
+    400216: glass01 6
+    400218: glass01 7
+    400220: glass01 8
+    400222: glass01 9
+    400224: glass02
+    400226: glass02 1
+    400228: glass02 2
+    400230: glass02 3
+    400232: glass02 4
+    400234: glass02 5
+    400236: glass02 6
+    400238: glass02 7
+    400240: glass1
+    400242: glass_01
+    400244: glass_01 1
+    400246: glass_01 10
+    400248: glass_01 11
+    400250: glass_01 12
+    400252: glass_01 2
+    400254: glass_01 3
+    400256: glass_01 4
+    400258: glass_01 5
+    400260: glass_01 6
+    400262: glass_01 7
+    400264: glass_01 8
+    400266: glass_01 9
+    400268: glass_02
+    400270: glass_02 1
+    400272: glass_02 10
+    400274: glass_02 11
+    400276: glass_02 12
+    400278: glass_02 2
+    400280: glass_02 3
+    400282: glass_02 4
+    400284: glass_02 5
+    400286: glass_02 6
+    400288: glass_02 7
+    400290: glass_02 8
+    400292: glass_02 9
+    400294: grill
+    400296: Handle
+    400298: handle
+    400300: handle01
+    400302: handle_l
+    400304: handle_l 1
+    400306: handle_r
+    400308: handle_r 1
+    400310: hook01
+    400312: hook02
+    400314: hook03
+    400316: hook04
+    400318: hook05
+    400320: hook06
+    400322: hook07
+    400324: hook08
+    400326: hook09
+    400328: hook11
+    400330: hook12
+    400332: hook13
+    400334: hook14
+    400336: hook15
+    400338: hook16
+    400340: hook17
+    400342: hour_hand
+    400344: huta01
+    400346: huta02
+    400348: huta03
+    400350: huta04
+    400352: kettle01
+    400354: key1
+    400356: key1 1
+    400358: key2
+    400360: key3
+    400362: key3 1
+    400364: key3 2
+    400366: key3 3
+    400368: key4
+    400370: knob01
+    400372: kr_a_spatula_01_01
+    400374: kr_add_effect_01_01
+    400376: kr_add_effect_01_02
+    400378: kr_air_conditioner_01_01
+    400380: kr_aircon_switch_01_01
+    400382: kr_bleach_01_01
+    400384: kr_bowl_01_01
+    400386: kr_bowl_01_02
+    400388: kr_bowl_01_03
+    400390: kr_bowl_01_04
+    400392: kr_bowl_01_05
+    400394: kr_bowl_01_06
+    400396: kr_bucket_01_01
+    400398: kr_can_opener_01_01
+    400400: kr_cardboard_01_01
+    400402: kr_cardboard_01_02
+    400404: kr_ceiling_01_01
+    400406: kr_ceiling_parts_01_01
+    400408: kr_ceiling_parts_02_01
+    400410: kr_ceiling_parts_03_01
+    400412: kr_chair_01_01
+    400414: kr_chair_01_02
+    400416: kr_chopstick_stand_01_01
+    400418: kr_chopsticks_01_01
+    400420: kr_chopsticks_01_02
+    400422: kr_chopsticks_01_03
+    400424: kr_chopsticks_01_04
+    400426: kr_chopsticks_01_05
+    400428: kr_cleanser_01_01
+    400430: kr_clock_01_01
+    400432: kr_colander_01_01
+    400434: kr_counter_01_01
+    400436: kr_counter_01_02
+    400438: KR_counterobj_01_01
+    400440: kr_counterobj_01_01
+    400442: KR_counterobj_01_01 1
+    400444: KR_counterobj_01_01 2
+    400446: kr_cutting_board_01_01
+    400448: kr_detergent_01_01
+    400450: KR_dial_01_01
+    400452: KR_door_01_01
+    400454: kr_door_01_01
+    400456: kr_door_01_02
+    400458: kr_door_02_01
+    400460: KR_door_col_01_01
+    400462: KR_door_col_01_02
+    400464: KR_door_col_02_01
+    400466: kr_drainer_basket_01_01
+    400468: kr_drainer_basket_01_02
+    400470: kr_electricpot_01_01
+    400472: kr_electronic_scale_01_01
+    400474: kr_fire_extinguisher_01_01
+    400476: kr_flat_tray_01_01
+    400478: kr_floor_01_01
+    400480: kr_fork_01_01
+    400482: kr_garbage_can_01_01
+    400484: kr_garbage_can_01_02
+    400486: kr_garbage_can_01_03
+    400488: kr_gasrange_01_01
+    400490: kr_hand_soap_01_01
+    400492: kr_hook_01_01
+    400494: kr_kettle_01_01
+    400496: kr_knife_01_01
+    400498: kr_knife_01_02
+    400500: kr_knife_01_03
+    400502: kr_ladle_01_01
+    400504: kr_light_01_01
+    400506: kr_light_02_01
+    400508: kr_light_switch_01_01
+    400510: kr_locker_01_01
+    400512: kr_measuring_spoons_01_01
+    400514: KR_microwave_01_01
+    400516: kr_microwave_01_01
+    400518: kr_mug_01_01
+    400520: kr_mug_01_02
+    400522: kr_outlet_01_01
+    400524: kr_peeler_01_01
+    400526: kr_pillar_01_01
+    400528: kr_pillar_01_02
+    400530: kr_place_sponge_01_01
+    400532: kr_plastic_tub_01_01
+    400534: kr_plastic_tub_01_02
+    400536: kr_pot_01_01
+    400538: kr_pot_01_02
+    400540: kr_rack_01_01
+    400542: kr_rack_02_01
+    400544: kr_rack_03_01
+    400546: kr_rack_wagon_01_01
+    400548: kr_rack_wagon_01_02
+    400550: kr_rice_bowl_01_01
+    400552: kr_rice_bowl_01_02
+    400554: kr_ricecooker_01_01
+    400556: kr_ricespatula_01_01
+    400558: kr_rolled_egg_making_pan_01_01
+    400560: kr_rolled_egg_making_pan_01_03
+    400562: KR_roller_stand_01_01
+    400564: kr_rolling_pin_01_0_1
+    400566: kr_round_tray_01_01
+    400568: kr_round_tray_01_02
+    400570: kr_round_tray_01_03
+    400572: //RootNode
+    400574: kr_round_tray_01_04
+    400576: kr_scale_01_01
+    400578: kr_scrub_brush_01_01
+    400580: kr_skillet_01_01
+    400582: kr_skillet_01_02
+    400584: kr_soup_bowl_01_01
+    400586: kr_soup_bowl_01_02
+    400588: kr_spatula_01_01
+    400590: kr_spatula_01_02
+    400592: kr_speaker_01_01
+    400594: kr_sponge_01_01
+    400596: kr_spoon_01_01
+    400598: kr_steel_tray_01_01
+    400600: kr_tea_bowl_01_01
+    400602: kr_tea_bowl_01_02
+    400604: kr_tongs_01_01
+    400606: kr_towel_rack_01_01
+    400608: kr_triangular_sink_tidy_01_01
+    400610: KR_turntable_01_01
+    400612: kr_ventilator_01_01
+    400614: kr_wall_01_01
+    400616: kr_whisk_01_01
+    400618: kr_window_01_01
+    400620: left_adjustment_fire
+    400622: left_stove_switch
+    400624: Lid
+    400626: lid
+    400628: lid 1
+    400630: lid01
+    400632: lid01 1
+    400634: lid01 2
+    400636: lid01 3
+    400638: lid01 4
+    400640: lid01 5
+    400642: light01
+    400644: light01 1
+    400646: light02
+    400648: light02 1
+    400650: light_switch_01
+    400652: locker_01
+    400654: locker_door_01
+    400656: mainbody
+    400658: minute_hand
+    400660: nozzle_l1
+    400662: nozzle_l1 1
+    400664: nozzle_l2
+    400666: nozzle_l2 1
+    400668: nozzle_r1
+    400670: nozzle_r1 1
+    400672: nozzle_r2
+    400674: nozzle_r2 1
+    400676: original_classroom
+    400678: pan01
+    400680: pan01 1
+    400682: peeler_01
+    400684: pointer01
+    400686: pot
+    400688: pot01
+    400690: pot01 1
+    400692: rack_01_01
+    400694: rack_01_02
+    400696: rack_02_01
+    400698: rack_wagon
+    400700: rack_wagon 1
+    400702: right_adjustment_fire
+    400704: right_stove_switch
+    400706: second_hand
+    400708: shw_garbage_can01
+    400710: shw_hook01
+    400712: switch1
+    400714: switch2
+    400716: tabletop1
+    400718: tabletop1 1
+    400720: tabletop2
+    400722: tabletop2 1
+    400724: teachers_counter
+    400726: Towel_rack
+    400728: valve
+    400730: valve 1
+    400732: valve 2
+    400734: wall01
+    400736: wall01 1
+    400738: wall_01
+    400740: wall_01 1
+    400742: weighing_dish01
+    400744: window
+    400746: window 1
+    400748: window01_01
+    400750: window01_01 1
+    400752: window01_01 2
+    400754: window01_01 3
+    400756: window01_02
+    400758: window01_02 1
+    400760: window01_02 2
+    400762: window01_02 3
+    400764: window01_03
+    400766: window01_04
+    400768: window02_01
+    400770: window02_01 1
+    400772: window02_02
+    400774: window02_02 1
+    400776: window02_03
+    400778: window02_04
+    400780: window_01
+    400782: wine_opener0_1
+    2300000: blade_01
+    2300002: body
+    2300004: body01
+    2300006: bowl
+    2300008: bucket_01
+    2300010: bucket_handle_01
+    2300012: can_opener_01
+    2300014: caster_01
+    2300016: caster_01 1
+    2300018: caster_02
+    2300020: caster_02 1
+    2300022: caster_03
+    2300024: caster_03 1
+    2300026: caster_04
+    2300028: caster_04 1
+    2300030: chopsticks_01
+    2300032: chopsticks_01 1
+    2300034: chopsticks_01 2
+    2300036: chopsticks_01 3
+    2300038: chopsticks_01 4
+    2300040: chopsticks_02
+    2300042: chopsticks_02 1
+    2300044: chopsticks_02 2
+    2300046: chopsticks_02 3
+    2300048: chopsticks_02 4
+    2300050: clock_01
+    2300052: counter_for_students
+    2300054: dish01
+    2300056: display01
+    2300058: door01
+    2300060: door01_L
+    2300062: door01_L 1
+    2300064: door01_L1
+    2300066: door01_L1 1
+    2300068: door01_L1 2
+    2300070: door01_L1 3
+    2300072: door01_L2
+    2300074: door01_R
+    2300076: door01_R 1
+    2300078: door01_R1
+    2300080: door01_R1 1
+    2300082: door01_R2
+    2300084: door02_1
+    2300086: door02_2
+    2300088: door02_3
+    2300090: door02_4
+    2300092: door03_L1
+    2300094: door03_R1
+    2300096: door04_L1
+    2300098: door04_R1
+    2300100: door05_L1
+    2300102: door05_R1
+    2300104: door1_l
+    2300106: door1_l 1
+    2300108: door1_r
+    2300110: door1_r 1
+    2300112: door2_l
+    2300114: door2_l 1
+    2300116: door2_r
+    2300118: door2_r 1
+    2300120: door3_l
+    2300122: door3_l 1
+    2300124: door3_r
+    2300126: door3_r 1
+    2300128: door4_l
+    2300130: door4_l 1
+    2300132: door4_r
+    2300134: door4_r 1
+    2300136: door_01
+    2300138: door_01 2
+    2300140: door_frame01
+    2300142: doorknob
+    2300144: drawer1
+    2300146: drawer1 1
+    2300148: drawer2
+    2300150: drawer2 1
+    2300152: drawer3
+    2300154: drawer4
+    2300156: duster_01
+    2300158: duster_02
+    2300160: duster_03
+    2300162: duster_04
+    2300164: duster_05
+    2300166: duster_06
+    2300168: Electricpot
+    2300170: fan
+    2300172: fastener01
+    2300174: fastener02
+    2300176: faucet
+    2300178: faucet 1
+    2300180: Fire_extinguisher_01_01
+    2300182: Fire_extinguisher_stand
+    2300184: fish_adjustment_fire
+    2300186: fish_roaster
+    2300188: fish_roaster_switch
+    2300190: flame01
+    2300192: gasrange
+    2300194: glass01
+    2300196: glass01 1
+    2300198: glass01 10
+    2300200: glass01 11
+    2300202: glass01 12
+    2300204: glass01 2
+    2300206: glass01 3
+    2300208: glass01 4
+    2300210: glass01 5
+    2300212: glass01 6
+    2300214: glass01 7
+    2300216: glass01 8
+    2300218: glass01 9
+    2300220: glass02
+    2300222: glass02 1
+    2300224: glass02 2
+    2300226: glass02 3
+    2300228: glass02 4
+    2300230: glass02 5
+    2300232: glass02 6
+    2300234: glass02 7
+    2300236: glass1
+    2300238: glass_01
+    2300240: glass_01 1
+    2300242: glass_01 10
+    2300244: glass_01 11
+    2300246: glass_01 12
+    2300248: glass_01 2
+    2300250: glass_01 3
+    2300252: glass_01 4
+    2300254: glass_01 5
+    2300256: glass_01 6
+    2300258: glass_01 7
+    2300260: glass_01 8
+    2300262: glass_01 9
+    2300264: glass_02
+    2300266: glass_02 1
+    2300268: glass_02 10
+    2300270: glass_02 11
+    2300272: glass_02 12
+    2300274: glass_02 2
+    2300276: glass_02 3
+    2300278: glass_02 4
+    2300280: glass_02 5
+    2300282: glass_02 6
+    2300284: glass_02 7
+    2300286: glass_02 8
+    2300288: glass_02 9
+    2300290: grill
+    2300292: Handle
+    2300294: handle
+    2300296: handle01
+    2300298: handle_l
+    2300300: handle_l 1
+    2300302: handle_r
+    2300304: handle_r 1
+    2300306: hook01
+    2300308: hook02
+    2300310: hook03
+    2300312: hook04
+    2300314: hook05
+    2300316: hook06
+    2300318: hook07
+    2300320: hook08
+    2300322: hook09
+    2300324: hook11
+    2300326: hook12
+    2300328: hook13
+    2300330: hook14
+    2300332: hook15
+    2300334: hook16
+    2300336: hook17
+    2300338: hour_hand
+    2300340: huta01
+    2300342: huta02
+    2300344: huta03
+    2300346: huta04
+    2300348: kettle01
+    2300350: key1
+    2300352: key1 1
+    2300354: key2
+    2300356: key3
+    2300358: key3 1
+    2300360: key3 2
+    2300362: key3 3
+    2300364: key4
+    2300366: knob01
+    2300368: kr_a_spatula_01_01
+    2300370: kr_add_effect_01_01
+    2300372: kr_add_effect_01_02
+    2300374: kr_air_conditioner_01_01
+    2300376: kr_aircon_switch_01_01
+    2300378: kr_bleach_01_01
+    2300380: kr_bowl_01_01
+    2300382: kr_bowl_01_02
+    2300384: kr_bowl_01_03
+    2300386: kr_bowl_01_05
+    2300388: kr_bowl_01_06
+    2300390: kr_cardboard_01_01
+    2300392: kr_ceiling_01_01
+    2300394: kr_ceiling_parts_01_01
+    2300396: kr_ceiling_parts_02_01
+    2300398: kr_ceiling_parts_03_01
+    2300400: kr_chair_01_01
+    2300402: kr_chair_01_02
+    2300404: kr_chopstick_stand_01_01
+    2300406: kr_cleanser_01_01
+    2300408: kr_colander_01_01
+    2300410: KR_counterobj_01_01
+    2300412: KR_counterobj_01_01 1
+    2300414: KR_counterobj_01_01 2
+    2300416: kr_cutting_board_01_01
+    2300418: kr_detergent_01_01
+    2300420: KR_dial_01_01
+    2300422: KR_door_01_01
+    2300424: KR_door_col_01_01
+    2300426: KR_door_col_01_02
+    2300428: KR_door_col_02_01
+    2300430: kr_drainer_basket_01_01
+    2300432: kr_drainer_basket_01_02
+    2300434: kr_flat_tray_01_01
+    2300436: kr_floor_01_01
+    2300438: kr_fork_01_01
+    2300440: kr_garbage_can_01_01
+    2300442: kr_garbage_can_01_02
+    2300444: kr_hand_soap_01_01
+    2300446: kr_knife_01_01
+    2300448: kr_knife_01_02
+    2300450: kr_knife_01_03
+    2300452: kr_ladle_01_01
+    2300454: kr_measuring_spoons_01_01
+    2300456: KR_microwave_01_01
+    2300458: kr_mug_01_01
+    2300460: kr_mug_01_02
+    2300462: kr_outlet_01_01
+    2300464: kr_pillar_01_01
+    2300466: kr_pillar_01_02
+    2300468: kr_place_sponge_01_01
+    2300470: kr_plastic_tub_01_01
+    2300472: kr_plastic_tub_01_02
+    2300474: kr_rack_03_01
+    2300476: kr_rice_bowl_01_01
+    2300478: kr_rice_bowl_01_02
+    2300480: kr_ricespatula_01_01
+    2300482: kr_rolled_egg_making_pan_01_01
+    2300484: kr_rolled_egg_making_pan_01_03
+    2300486: KR_roller_stand_01_01
+    2300488: kr_rolling_pin_01_0_1
+    2300490: kr_round_tray_01_01
+    2300492: kr_round_tray_01_02
+    2300494: kr_round_tray_01_03
+    2300496: kr_round_tray_01_04
+    2300498: kr_scrub_brush_01_01
+    2300500: kr_soup_bowl_01_01
+    2300502: kr_soup_bowl_01_02
+    2300504: kr_spatula_01_01
+    2300506: kr_spatula_01_02
+    2300508: kr_speaker_01_01
+    2300510: kr_sponge_01_01
+    2300512: kr_spoon_01_01
+    2300514: kr_steel_tray_01_01
+    2300516: kr_tea_bowl_01_01
+    2300518: kr_tea_bowl_01_02
+    2300520: kr_tongs_01_01
+    2300522: kr_triangular_sink_tidy_01_01
+    2300524: KR_turntable_01_01
+    2300526: kr_wall_01_01
+    2300528: kr_whisk_01_01
+    2300530: left_adjustment_fire
+    2300532: left_stove_switch
+    2300534: Lid
+    2300536: lid
+    2300538: lid 1
+    2300540: lid01
+    2300542: lid01 1
+    2300544: lid01 2
+    2300546: lid01 3
+    2300548: lid01 4
+    2300550: lid01 5
+    2300552: light01
+    2300554: light01 1
+    2300556: light02
+    2300558: light02 1
+    2300560: light_switch_01
+    2300562: locker_01
+    2300564: locker_door_01
+    2300566: mainbody
+    2300568: minute_hand
+    2300570: nozzle_l1
+    2300572: nozzle_l1 1
+    2300574: nozzle_l2
+    2300576: nozzle_l2 1
+    2300578: nozzle_r1
+    2300580: nozzle_r1 1
+    2300582: nozzle_r2
+    2300584: nozzle_r2 1
+    2300586: pan01
+    2300588: pan01 1
+    2300590: peeler_01
+    2300592: pointer01
+    2300594: pot
+    2300596: pot01
+    2300598: pot01 1
+    2300600: rack_01_01
+    2300602: rack_01_02
+    2300604: rack_02_01
+    2300606: rack_wagon
+    2300608: rack_wagon 1
+    2300610: right_adjustment_fire
+    2300612: right_stove_switch
+    2300614: second_hand
+    2300616: shw_garbage_can01
+    2300618: shw_hook01
+    2300620: switch1
+    2300622: switch2
+    2300624: tabletop1
+    2300626: tabletop1 1
+    2300628: tabletop2
+    2300630: tabletop2 1
+    2300632: teachers_counter
+    2300634: Towel_rack
+    2300636: valve
+    2300638: valve 1
+    2300640: valve 2
+    2300642: wall01
+    2300644: wall01 1
+    2300646: wall_01
+    2300648: wall_01 1
+    2300650: weighing_dish01
+    2300652: window
+    2300654: window 1
+    2300656: window01_01
+    2300658: window01_01 1
+    2300660: window01_01 2
+    2300662: window01_01 3
+    2300664: window01_02
+    2300666: window01_02 1
+    2300668: window01_02 2
+    2300670: window01_02 3
+    2300672: window01_03
+    2300674: window01_04
+    2300676: window02_01
+    2300678: window02_01 1
+    2300680: window02_02
+    2300682: window02_02 1
+    2300684: window02_03
+    2300686: window02_04
+    2300688: wine_opener0_1
+    2300690: //RootNode
+    3300000: blade_01
+    3300002: body
+    3300004: body01
+    3300006: bowl
+    3300008: bucket_01
+    3300010: bucket_handle_01
+    3300012: can_opener_01
+    3300014: caster_01
+    3300016: caster_01 1
+    3300018: caster_02
+    3300020: caster_02 1
+    3300022: caster_03
+    3300024: caster_03 1
+    3300026: caster_04
+    3300028: caster_04 1
+    3300030: chopsticks_01
+    3300032: chopsticks_01 1
+    3300034: chopsticks_01 2
+    3300036: chopsticks_01 3
+    3300038: chopsticks_01 4
+    3300040: chopsticks_02
+    3300042: chopsticks_02 1
+    3300044: chopsticks_02 2
+    3300046: chopsticks_02 3
+    3300048: chopsticks_02 4
+    3300050: clock_01
+    3300052: counter_for_students
+    3300054: dish01
+    3300056: display01
+    3300058: door01
+    3300060: door01_L
+    3300062: door01_L 1
+    3300064: door01_L1
+    3300066: door01_L1 1
+    3300068: door01_L1 2
+    3300070: door01_L1 3
+    3300072: door01_L2
+    3300074: door01_R
+    3300076: door01_R 1
+    3300078: door01_R1
+    3300080: door01_R1 1
+    3300082: door01_R2
+    3300084: door02_1
+    3300086: door02_2
+    3300088: door02_3
+    3300090: door02_4
+    3300092: door03_L1
+    3300094: door03_R1
+    3300096: door04_L1
+    3300098: door04_R1
+    3300100: door05_L1
+    3300102: door05_R1
+    3300104: door1_l
+    3300106: door1_l 1
+    3300108: door1_r
+    3300110: door1_r 1
+    3300112: door2_l
+    3300114: door2_l 1
+    3300116: door2_r
+    3300118: door2_r 1
+    3300120: door3_l
+    3300122: door3_l 1
+    3300124: door3_r
+    3300126: door3_r 1
+    3300128: door4_l
+    3300130: door4_l 1
+    3300132: door4_r
+    3300134: door4_r 1
+    3300136: door_01
+    3300138: door_01 2
+    3300140: door_frame01
+    3300142: doorknob
+    3300144: drawer1
+    3300146: drawer1 1
+    3300148: drawer2
+    3300150: drawer2 1
+    3300152: drawer3
+    3300154: drawer4
+    3300156: duster_01
+    3300158: duster_02
+    3300160: duster_03
+    3300162: duster_04
+    3300164: duster_05
+    3300166: duster_06
+    3300168: Electricpot
+    3300170: fan
+    3300172: fastener01
+    3300174: fastener02
+    3300176: faucet
+    3300178: faucet 1
+    3300180: Fire_extinguisher_01_01
+    3300182: Fire_extinguisher_stand
+    3300184: fish_adjustment_fire
+    3300186: fish_roaster
+    3300188: fish_roaster_switch
+    3300190: flame01
+    3300192: gasrange
+    3300194: glass01
+    3300196: glass01 1
+    3300198: glass01 10
+    3300200: glass01 11
+    3300202: glass01 12
+    3300204: glass01 2
+    3300206: glass01 3
+    3300208: glass01 4
+    3300210: glass01 5
+    3300212: glass01 6
+    3300214: glass01 7
+    3300216: glass01 8
+    3300218: glass01 9
+    3300220: glass02
+    3300222: glass02 1
+    3300224: glass02 2
+    3300226: glass02 3
+    3300228: glass02 4
+    3300230: glass02 5
+    3300232: glass02 6
+    3300234: glass02 7
+    3300236: glass1
+    3300238: glass_01
+    3300240: glass_01 1
+    3300242: glass_01 10
+    3300244: glass_01 11
+    3300246: glass_01 12
+    3300248: glass_01 2
+    3300250: glass_01 3
+    3300252: glass_01 4
+    3300254: glass_01 5
+    3300256: glass_01 6
+    3300258: glass_01 7
+    3300260: glass_01 8
+    3300262: glass_01 9
+    3300264: glass_02
+    3300266: glass_02 1
+    3300268: glass_02 10
+    3300270: glass_02 11
+    3300272: glass_02 12
+    3300274: glass_02 2
+    3300276: glass_02 3
+    3300278: glass_02 4
+    3300280: glass_02 5
+    3300282: glass_02 6
+    3300284: glass_02 7
+    3300286: glass_02 8
+    3300288: glass_02 9
+    3300290: grill
+    3300292: Handle
+    3300294: handle
+    3300296: handle01
+    3300298: handle_l
+    3300300: handle_l 1
+    3300302: handle_r
+    3300304: handle_r 1
+    3300306: hook01
+    3300308: hook02
+    3300310: hook03
+    3300312: hook04
+    3300314: hook05
+    3300316: hook06
+    3300318: hook07
+    3300320: hook08
+    3300322: hook09
+    3300324: hook11
+    3300326: hook12
+    3300328: hook13
+    3300330: hook14
+    3300332: hook15
+    3300334: hook16
+    3300336: hook17
+    3300338: hour_hand
+    3300340: huta01
+    3300342: huta02
+    3300344: huta03
+    3300346: huta04
+    3300348: kettle01
+    3300350: key1
+    3300352: key1 1
+    3300354: key2
+    3300356: key3
+    3300358: key3 1
+    3300360: key3 2
+    3300362: key3 3
+    3300364: key4
+    3300366: knob01
+    3300368: kr_a_spatula_01_01
+    3300370: kr_add_effect_01_01
+    3300372: kr_add_effect_01_02
+    3300374: kr_air_conditioner_01_01
+    3300376: kr_aircon_switch_01_01
+    3300378: kr_bleach_01_01
+    3300380: kr_bowl_01_01
+    3300382: kr_bowl_01_02
+    3300384: kr_bowl_01_03
+    3300386: kr_bowl_01_05
+    3300388: kr_bowl_01_06
+    3300390: kr_cardboard_01_01
+    3300392: kr_ceiling_01_01
+    3300394: kr_ceiling_parts_01_01
+    3300396: kr_ceiling_parts_02_01
+    3300398: kr_ceiling_parts_03_01
+    3300400: kr_chair_01_01
+    3300402: kr_chair_01_02
+    3300404: kr_chopstick_stand_01_01
+    3300406: kr_cleanser_01_01
+    3300408: kr_colander_01_01
+    3300410: KR_counterobj_01_01
+    3300412: KR_counterobj_01_01 1
+    3300414: KR_counterobj_01_01 2
+    3300416: kr_cutting_board_01_01
+    3300418: kr_detergent_01_01
+    3300420: KR_dial_01_01
+    3300422: KR_door_01_01
+    3300424: KR_door_col_01_01
+    3300426: KR_door_col_01_02
+    3300428: KR_door_col_02_01
+    3300430: kr_drainer_basket_01_01
+    3300432: kr_drainer_basket_01_02
+    3300434: kr_flat_tray_01_01
+    3300436: kr_floor_01_01
+    3300438: kr_fork_01_01
+    3300440: kr_garbage_can_01_01
+    3300442: kr_garbage_can_01_02
+    3300444: kr_hand_soap_01_01
+    3300446: kr_knife_01_01
+    3300448: kr_knife_01_02
+    3300450: kr_knife_01_03
+    3300452: kr_ladle_01_01
+    3300454: kr_measuring_spoons_01_01
+    3300456: KR_microwave_01_01
+    3300458: kr_mug_01_01
+    3300460: kr_mug_01_02
+    3300462: kr_outlet_01_01
+    3300464: kr_pillar_01_01
+    3300466: kr_pillar_01_02
+    3300468: kr_place_sponge_01_01
+    3300470: kr_plastic_tub_01_01
+    3300472: kr_plastic_tub_01_02
+    3300474: kr_rack_03_01
+    3300476: kr_rice_bowl_01_01
+    3300478: kr_rice_bowl_01_02
+    3300480: kr_ricespatula_01_01
+    3300482: kr_rolled_egg_making_pan_01_01
+    3300484: kr_rolled_egg_making_pan_01_03
+    3300486: KR_roller_stand_01_01
+    3300488: kr_rolling_pin_01_0_1
+    3300490: kr_round_tray_01_01
+    3300492: kr_round_tray_01_02
+    3300494: kr_round_tray_01_03
+    3300496: kr_round_tray_01_04
+    3300498: kr_scrub_brush_01_01
+    3300500: kr_soup_bowl_01_01
+    3300502: kr_soup_bowl_01_02
+    3300504: kr_spatula_01_01
+    3300506: kr_spatula_01_02
+    3300508: kr_speaker_01_01
+    3300510: kr_sponge_01_01
+    3300512: kr_spoon_01_01
+    3300514: kr_steel_tray_01_01
+    3300516: kr_tea_bowl_01_01
+    3300518: kr_tea_bowl_01_02
+    3300520: kr_tongs_01_01
+    3300522: kr_triangular_sink_tidy_01_01
+    3300524: KR_turntable_01_01
+    3300526: kr_wall_01_01
+    3300528: kr_whisk_01_01
+    3300530: left_adjustment_fire
+    3300532: left_stove_switch
+    3300534: Lid
+    3300536: lid
+    3300538: lid 1
+    3300540: lid01
+    3300542: lid01 1
+    3300544: lid01 2
+    3300546: lid01 3
+    3300548: lid01 4
+    3300550: lid01 5
+    3300552: light01
+    3300554: light01 1
+    3300556: light02
+    3300558: light02 1
+    3300560: light_switch_01
+    3300562: locker_01
+    3300564: locker_door_01
+    3300566: mainbody
+    3300568: minute_hand
+    3300570: nozzle_l1
+    3300572: nozzle_l1 1
+    3300574: nozzle_l2
+    3300576: nozzle_l2 1
+    3300578: nozzle_r1
+    3300580: nozzle_r1 1
+    3300582: nozzle_r2
+    3300584: nozzle_r2 1
+    3300586: pan01
+    3300588: pan01 1
+    3300590: peeler_01
+    3300592: pointer01
+    3300594: pot
+    3300596: pot01
+    3300598: pot01 1
+    3300600: rack_01_01
+    3300602: rack_01_02
+    3300604: rack_02_01
+    3300606: rack_wagon
+    3300608: rack_wagon 1
+    3300610: right_adjustment_fire
+    3300612: right_stove_switch
+    3300614: second_hand
+    3300616: shw_garbage_can01
+    3300618: shw_hook01
+    3300620: switch1
+    3300622: switch2
+    3300624: tabletop1
+    3300626: tabletop1 1
+    3300628: tabletop2
+    3300630: tabletop2 1
+    3300632: teachers_counter
+    3300634: Towel_rack
+    3300636: valve
+    3300638: valve 1
+    3300640: valve 2
+    3300642: wall01
+    3300644: wall01 1
+    3300646: wall_01
+    3300648: wall_01 1
+    3300650: weighing_dish01
+    3300652: window
+    3300654: window 1
+    3300656: window01_01
+    3300658: window01_01 1
+    3300660: window01_01 2
+    3300662: window01_01 3
+    3300664: window01_02
+    3300666: window01_02 1
+    3300668: window01_02 2
+    3300670: window01_02 3
+    3300672: window01_03
+    3300674: window01_04
+    3300676: window02_01
+    3300678: window02_01 1
+    3300680: window02_02
+    3300682: window02_02 1
+    3300684: window02_03
+    3300686: window02_04
+    3300688: wine_opener0_1
+    3300690: //RootNode
+    4300000: KR_door_col_01_01
+    4300002: KR_door_col_01_02
+    4300004: KR_door_col_02_01
+    4300006: kr_add_effect_01_01
+    4300008: kr_add_effect_01_02
+    4300010: door_01
+    4300012: wall_01
+    4300014: window01_01
+    4300016: glass_02
+    4300018: glass_01
+    4300020: window01_02
+    4300022: glass_02
+    4300024: glass_01
+    4300026: key3
+    4300028: door01_R
+    4300030: door01_L1
+    4300032: glass_01
+    4300034: glass_02
+    4300036: door01_L
+    4300038: glass_02
+    4300040: glass_01
+    4300042: wall01
+    4300044: window
+    4300046: window02_02
+    4300048: glass_01
+    4300050: glass_02
+    4300052: window02_01
+    4300054: glass_01
+    4300056: key1
+    4300058: glass_02
+    4300060: window01_02
+    4300062: glass_01
+    4300064: glass_02
+    4300066: window01_01
+    4300068: key3
+    4300070: glass_01
+    4300072: glass_02
+    4300074: door_01
+    4300076: door01_R
+    4300078: door01_L1
+    4300080: glass_01
+    4300082: glass_02
+    4300084: door01_L
+    4300086: glass_02
+    4300088: glass_01
+    4300090: window01_01
+    4300092: glass_02
+    4300094: glass_01
+    4300096: window01_02
+    4300098: glass_02
+    4300100: glass_01
+    4300102: key3
+    4300104: light_switch_01
+    4300106: switch1
+    4300108: switch2
+    4300110: kr_garbage_can_01_01
+    4300112: kr_garbage_can_01_02
+    4300114: clock_01
+    4300116: second_hand
+    4300118: hour_hand
+    4300120: minute_hand
+    4300122: glass1
+    4300124: kr_ceiling_parts_01_01
+    4300126: kr_ceiling_parts_02_01
+    4300128: kr_ceiling_parts_03_01
+    4300130: kr_aircon_switch_01_01
+    4300132: kr_air_conditioner_01_01
+    4300134: kr_pillar_01_01
+    4300136: kr_pillar_01_02
+    4300138: light01
+    4300140: light02
+    4300142: light01
+    4300144: light02
+    4300146: kr_wall_01_01
+    4300148: wall01
+    4300150: window
+    4300152: window01_01
+    4300154: glass02
+    4300156: key3
+    4300158: glass01
+    4300160: window01_02
+    4300162: glass02
+    4300164: glass01
+    4300166: window01_03
+    4300168: glass02
+    4300170: key4
+    4300172: glass01
+    4300174: window01_04
+    4300176: glass02
+    4300178: glass01
+    4300180: window02_01
+    4300182: glass02
+    4300184: glass01
+    4300186: key1
+    4300188: window02_02
+    4300190: glass02
+    4300192: glass01
+    4300194: window02_03
+    4300196: glass02
+    4300198: key2
+    4300200: glass01
+    4300202: window02_04
+    4300204: glass02
+    4300206: glass01
+    4300208: kr_chair_01_01
+    4300210: kr_chair_01_02
+    4300212: door1_l
+    4300214: door1_r
+    4300216: door2_l
+    4300218: door2_r
+    4300220: door3_l
+    4300222: door3_r
+    4300224: door4_l
+    4300226: door4_r
+    4300228: drawer1
+    4300230: drawer2
+    4300232: teachers_counter
+    4300234: tabletop1
+    4300236: tabletop2
+    4300238: KR_counterobj_01_01
+    4300240: valve
+    4300242: faucet
+    4300244: nozzle_l1
+    4300246: nozzle_l2
+    4300248: handle_l
+    4300250: nozzle_r1
+    4300252: nozzle_r2
+    4300254: handle_r
+    4300256: door1_l
+    4300258: door1_r
+    4300260: door2_l
+    4300262: door2_r
+    4300264: door3_l
+    4300266: door3_r
+    4300268: door4_l
+    4300270: door4_r
+    4300272: drawer1
+    4300274: drawer2
+    4300276: drawer3
+    4300278: drawer4
+    4300280: faucet
+    4300282: nozzle_l1
+    4300284: nozzle_l2
+    4300286: handle_l
+    4300288: nozzle_r1
+    4300290: nozzle_r2
+    4300292: handle_r
+    4300294: counter_for_students
+    4300296: tabletop1
+    4300298: tabletop2
+    4300300: KR_counterobj_01_01
+    4300302: valve
+    4300304: left_stove_switch
+    4300306: right_stove_switch
+    4300308: fish_roaster_switch
+    4300310: left_adjustment_fire
+    4300312: right_adjustment_fire
+    4300314: fish_adjustment_fire
+    4300316: gasrange
+    4300318: fish_roaster
+    4300320: grill
+    4300322: Electricpot
+    4300324: Handle
+    4300326: Lid
+    4300328: KR_turntable_01_01
+    4300330: KR_dial_01_01
+    4300332: KR_door_01_01
+    4300334: KR_roller_stand_01_01
+    4300336: KR_microwave_01_01
+    4300338: lid01
+    4300340: pot01
+    4300342: lid01
+    4300344: pot01
+    4300346: handle01
+    4300348: lid01
+    4300350: kettle01
+    4300352: rack_01_01
+    4300354: rack_01_02
+    4300356: door01_L1
+    4300358: door01_L2
+    4300360: door01_R1
+    4300362: door01_R2
+    4300364: door03_R1
+    4300366: glass01
+    4300368: door03_L1
+    4300370: glass01
+    4300372: door04_L1
+    4300374: glass01
+    4300376: door04_R1
+    4300378: glass01
+    4300380: door05_L1
+    4300382: door05_R1
+    4300384: door02_1
+    4300386: door02_2
+    4300388: door02_3
+    4300390: door02_4
+    4300392: rack_02_01
+    4300394: door01_R1
+    4300396: door01_L1
+    4300398: weighing_dish01
+    4300400: display01
+    4300402: dish01
+    4300404: glass01
+    4300406: pointer01
+    4300408: knob01
+    4300410: flame01
+    4300412: valve
+    4300414: KR_counterobj_01_01
+    4300416: kr_detergent_01_01
+    4300418: kr_cleanser_01_01
+    4300420: kr_bleach_01_01
+    4300422: kr_triangular_sink_tidy_01_01
+    4300424: kr_place_sponge_01_01
+    4300426: kr_scrub_brush_01_01
+    4300428: kr_sponge_01_01
+    4300430: pan01
+    4300432: lid01
+    4300434: lid01
+    4300436: pan01
+    4300438: kr_rolled_egg_making_pan_01_01
+    4300440: kr_rolled_egg_making_pan_01_03
+    4300442: kr_a_spatula_01_01
+    4300444: wine_opener0_1
+    4300446: can_opener_01
+    4300448: chopsticks_01
+    4300450: chopsticks_02
+    4300452: chopsticks_01
+    4300454: chopsticks_02
+    4300456: kr_cutting_board_01_01
+    4300458: kr_knife_01_01
+    4300460: kr_knife_01_02
+    4300462: kr_ladle_01_01
+    4300464: kr_measuring_spoons_01_01
+    4300466: blade_01
+    4300468: peeler_01
+    4300470: kr_rolling_pin_01_0_1
+    4300472: kr_spatula_01_01
+    4300474: kr_spatula_01_02
+    4300476: kr_tongs_01_01
+    4300478: kr_whisk_01_01
+    4300480: kr_outlet_01_01
+    4300482: kr_ceiling_01_01
+    4300484: locker_01
+    4300486: locker_door_01
+    4300488: kr_floor_01_01
+    4300490: bucket_01
+    4300492: bucket_handle_01
+    4300494: lid01
+    4300496: shw_garbage_can01
+    4300498: fastener01
+    4300500: fastener02
+    4300502: kr_hand_soap_01_01
+    4300504: shw_hook01
+    4300506: hook01
+    4300508: hook02
+    4300510: hook03
+    4300512: hook04
+    4300514: hook05
+    4300516: hook06
+    4300518: hook07
+    4300520: hook08
+    4300522: hook09
+    4300524: hook11
+    4300526: hook12
+    4300528: hook13
+    4300530: hook14
+    4300532: hook15
+    4300534: hook16
+    4300536: hook17
+    4300538: Towel_rack
+    4300540: duster_01
+    4300542: duster_02
+    4300544: duster_03
+    4300546: duster_04
+    4300548: duster_05
+    4300550: duster_06
+    4300552: kr_rack_03_01
+    4300554: kr_speaker_01_01
+    4300556: mainbody
+    4300558: pot
+    4300560: handle
+    4300562: lid
+    4300564: kr_ricespatula_01_01
+    4300566: fan
+    4300568: body
+    4300570: kr_cardboard_01_01
+    4300572: body01
+    4300574: huta01
+    4300576: huta02
+    4300578: huta03
+    4300580: huta04
+    4300582: door_frame01
+    4300584: wall_01
+    4300586: door01
+    4300588: glass_02
+    4300590: glass_01
+    4300592: doorknob
+    4300594: Fire_extinguisher_stand
+    4300596: Fire_extinguisher_01_01
+    4300598: kr_drainer_basket_01_01
+    4300600: kr_drainer_basket_01_02
+    4300602: kr_steel_tray_01_01
+    4300604: kr_plastic_tub_01_01
+    4300606: kr_plastic_tub_01_02
+    4300608: kr_bowl_01_01
+    4300610: kr_bowl_01_02
+    4300612: kr_bowl_01_03
+    4300614: kr_colander_01_01
+    4300616: rack_wagon
+    4300618: caster_01
+    4300620: caster_02
+    4300622: caster_03
+    4300624: caster_04
+    4300626: rack_wagon
+    4300628: caster_01
+    4300630: caster_02
+    4300632: caster_03
+    4300634: caster_04
+    4300636: kr_rice_bowl_01_01
+    4300638: kr_rice_bowl_01_02
+    4300640: kr_soup_bowl_01_01
+    4300642: kr_soup_bowl_01_02
+    4300644: kr_round_tray_01_01
+    4300646: kr_round_tray_01_02
+    4300648: kr_round_tray_01_03
+    4300650: kr_round_tray_01_04
+    4300652: kr_mug_01_01
+    4300654: kr_mug_01_02
+    4300656: kr_tea_bowl_01_01
+    4300658: kr_tea_bowl_01_02
+    4300660: chopsticks_01
+    4300662: chopsticks_02
+    4300664: chopsticks_01
+    4300666: chopsticks_02
+    4300668: chopsticks_01
+    4300670: chopsticks_02
+    4300672: lid
+    4300674: bowl
+    4300676: kr_bowl_01_05
+    4300678: kr_bowl_01_06
+    4300680: kr_flat_tray_01_01
+    4300682: kr_spoon_01_01
+    4300684: kr_fork_01_01
+    4300686: kr_knife_01_03
+    4300688: kr_chopstick_stand_01_01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
