@@ -16,7 +16,7 @@ public class VegetableBasket : MonoBehaviour
         for(; count<bag.transform.childCount-1;count++)
         {
             bag_items[count] = bag.transform.GetChild(count+1).gameObject;
-            Debug.Log(bag_items[count]);
+            //Debug.Log(bag_items[count]);
         }
     }
 
