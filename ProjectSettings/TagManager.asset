@@ -7,6 +7,9 @@ TagManager:
   - bag
   - vege_bag
   - hand
+  - Refrigerator
+  - vegetable
+  - meat
   layers:
   - Default
   - TransparentFX
