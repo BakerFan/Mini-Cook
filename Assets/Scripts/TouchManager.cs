@@ -80,7 +80,7 @@ public class TouchManager : MonoBehaviour
                     item.tag = "meat";
                     item.name = "Rackoflamb_raw";
                     item.transform.parent=hand.transform;
-                    Debug.Log(item.transform.parent);
+                    //Debug.Log(item.transform.parent);
                 }
             }
         }
