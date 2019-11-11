@@ -5,7 +5,7 @@ using UnityEngine;
 public class Player:MonoBehaviour
 {
     private GameObject hand;
-    private bool isHandFull;
+    public bool isHandFull;
 
     private void Start()
     {

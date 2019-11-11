@@ -28,6 +28,7 @@ public class ItemsManager:MonoBehaviour
         if (hand.transform.childCount == 0)
         {
             item = (GameObject)Instantiate(items[0, 0], hand.transform);
+            item.tag = "vegetable";
             item.name = items_name[0];
             item.transform.SetParent(hand.transform);
             GameObject.FindGameObjectWithTag("bag").SetActive(false);
@@ -38,6 +39,7 @@ public class ItemsManager:MonoBehaviour
         if (hand.transform.childCount == 0)
         {
             item = (GameObject)Instantiate(items[0, 1], hand.transform);
+            item.tag = "vegetable";
             item.name = items_name[1];
             item.transform.SetParent(hand.transform);
             GameObject.FindGameObjectWithTag("bag").SetActive(false);
@@ -48,6 +50,7 @@ public class ItemsManager:MonoBehaviour
         if (hand.transform.childCount == 0)
         {
             item = (GameObject)Instantiate(items[0, 2], hand.transform);
+            item.tag = "vegetable";
             item.name = items_name[2];
             item.transform.SetParent(hand.transform);
             GameObject.FindGameObjectWithTag("bag").SetActive(false);
@@ -58,6 +61,7 @@ public class ItemsManager:MonoBehaviour
         if (hand.transform.childCount == 0)
         {
             item = (GameObject)Instantiate(items[1, 0], hand.transform);
+            item.tag = "vegetable";
             item.name = items_name[3];
             item.transform.SetParent(hand.transform);
             GameObject.FindGameObjectWithTag("bag").SetActive(false);
@@ -68,6 +72,7 @@ public class ItemsManager:MonoBehaviour
         if (hand.transform.childCount == 0)
         {
             item = (GameObject)Instantiate(items[1, 1], hand.transform);
+            item.tag = "vegetable";
             item.name = items_name[4];
             item.transform.SetParent(hand.transform);
             GameObject.FindGameObjectWithTag("bag").SetActive(false);
@@ -78,6 +83,7 @@ public class ItemsManager:MonoBehaviour
         if (hand.transform.childCount == 0)
         {
             item = (GameObject)Instantiate(items[1, 2], hand.transform);
+            item.tag = "vegetable";
             item.name = items_name[5];
             item.transform.SetParent(hand.transform);
             GameObject.FindGameObjectWithTag("bag").SetActive(false);
@@ -88,6 +94,7 @@ public class ItemsManager:MonoBehaviour
         if (hand.transform.childCount == 0)
         {
             item = (GameObject)Instantiate(items[2, 0], hand.transform);
+            item.tag = "vegetable";
             item.name = items_name[6];
             item.transform.SetParent(hand.transform);
             GameObject.FindGameObjectWithTag("bag").SetActive(false);
@@ -98,6 +105,7 @@ public class ItemsManager:MonoBehaviour
         if (hand.transform.childCount == 0)
         {
             item = (GameObject)Instantiate(items[2, 1], hand.transform);
+            item.tag = "vegetable";
             item.name = items_name[7];
             item.transform.SetParent(hand.transform);
             GameObject.FindGameObjectWithTag("bag").SetActive(false);
@@ -108,6 +116,7 @@ public class ItemsManager:MonoBehaviour
         if (hand.transform.childCount == 0)
         {
             item = (GameObject)Instantiate(items[2,2], hand.transform);
+            item.tag = "vegetable";
             item.name = items_name[8];
             item.transform.SetParent(hand.transform);
             GameObject.FindGameObjectWithTag("bag").SetActive(false);
