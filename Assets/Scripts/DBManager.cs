@@ -49,18 +49,15 @@ public class DBManager : MonoBehaviour
         //InsertValues("dish", value2);
 
         ////根据条件查找特定的字段
-        foreach (var item in SelectData("dish", new string[] { "ingredients" }, new string[] { "name","RackofLamb_dish" }))
-        {
-            string[] a;
-            a=item.ToString().Split(',');
-            foreach (string i in a)
-            {
-                Debug.Log(i);
-            }
-        }
-        GameObject b=GameObject.Find("TouchManager");
-
-        Debug.Log(b.GetComponent<ItemsManager>().items_name[0]);
+        //foreach (var item in SelectData("dish", new string[] { "ingredients" }, new string[] { "name","RackofLamb_dish" }))
+        //{
+        //    string[] a;
+        //    a=item.ToString().Split(',');
+        //    foreach (string i in a)
+        //    {
+        //        Debug.Log(i);
+        //    }
+        //}
 
         ////更新数据
         //UpdataData("user", new string[] {"name", "yyy"}, new string[] { "name" ,"wxy" });
@@ -86,7 +83,6 @@ public class DBManager : MonoBehaviour
         ////使用泛型插入对象
         //T4 t = new T4(2, "22", "222");
         //Insert<T4>(t);
-
     }
 
     /// <summary>
