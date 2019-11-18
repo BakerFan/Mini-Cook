@@ -1,0 +1,11 @@
+A set of cooking effects and sounds to bring a kitchen environment alive.
+
+Load the Kitchen_Cooking_FX.unity for an example scene, or drag an asset from the Prefabs folder from the Project window into the Hierarchy window. All the effects can be scaled to fit the environment and props in your scene.
+
+The collection of kitchen props shown are also available here: https://www.assetstore.unity3d.com/en/#!/content/43302
+
+Have fun!
+
+If you have any questions then please get in touch at bendurrant@rivermillstudios.com
+
+
