@@ -82,6 +82,34 @@ public class TouchManager : MonoBehaviour
                     item.transform.parent=hand.transform;
                     //Debug.Log(item.transform.parent);
                 }
+
+                //碰到tag为工具的物体时
+                if (isHit && (hit.collider.gameObject.tag == "tool") && !ishandfull && hit.distance < 3.5)
+                {
+                    GameObject pan = hit.collider.gameObject;
+                    pan.transform.parent = hand.transform;
+                }
+                //放锅
+                if (isHit && hit.collider.gameObject.name == "CookDesk" && hit.distance < 3)
+                {
+                    //Debug.Log("entered0");
+                    if (ishandfull && hand.transform.GetChild(0).tag == "tool")
+                    {
+                        //Debug.Log("entered");
+                        GameObject cookdesk = GameObject.Find("CookDesk");
+                        GameObject tool = hand.transform.GetChild(0).gameObject;
+                        //GameObject pan = GameObject.Find("Player/Hand/Fried_pan");
+                        foreach (Transform child in cookdesk.transform)
+                        {
+                            if (child.transform.childCount == 0)
+                            {
+                                //Debug.Log("entered1");
+                                tool.transform.parent = child.transform;
+                                tool.transform.position = child.transform.position;
+                            }
+                        }
+                    }
+                }
             }
         }
     }  
