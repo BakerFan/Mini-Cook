@@ -17,7 +17,7 @@ public class ItemsManager:MonoBehaviour
         {
             for (int j = 0; j < 3; j++)
             {
-                items[i,j] = Resources.Load("prefabs/"+items_name[index]);
+                items[i,j] = Resources.Load("prefabs/Vegetables/"+items_name[index]);
                 index++;
             }
         }

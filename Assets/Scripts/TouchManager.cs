@@ -14,6 +14,7 @@ public class TouchManager : MonoBehaviour
     private GameObject item;
     private Vector3 pos;
     private Quaternion rotation;
+    private ToolData ToolData;
 
     private void Start()
     {
@@ -21,6 +22,7 @@ public class TouchManager : MonoBehaviour
         vegetable_basket = GameObject.FindGameObjectWithTag("vege_bag");
         hand = GameObject.FindGameObjectWithTag("hand");
         player = GameObject.FindGameObjectWithTag("Player");
+        ToolData = GetComponent<ToolData>();
         //Debug.Log(vegetable_basket);
     }
 
@@ -53,7 +55,7 @@ public class TouchManager : MonoBehaviour
                     pos = refrigerator.transform.position;
                     rotation = refrigerator.transform.rotation;
                     Destroy(refrigerator);
-                    next_refrigerator = Resources.Load("prefabs/Refrigerator_open");
+                    next_refrigerator = Resources.Load("prefabs/Tools/Refrigerator_open");
                     refrigerator=(GameObject)Instantiate(next_refrigerator, pos, rotation);
                     refrigerator.tag = "Refrigerator";
                 }
@@ -63,24 +65,44 @@ public class TouchManager : MonoBehaviour
                     pos = refrigerator.transform.position;
                     rotation = refrigerator.transform.rotation;
                     Destroy(refrigerator);
-                    next_refrigerator = Resources.Load("prefabs/Refrigerator");
+                    next_refrigerator = Resources.Load("prefabs/Tools/Refrigerator");
                     refrigerator = (GameObject)Instantiate(next_refrigerator, pos, rotation);
                     refrigerator.tag = "Refrigerator";
                 }
                 if (isHit && hit.collider.gameObject.name == "catfish_frozen" && !ishandfull && hit.distance < 2)
                 {
-                    item = (GameObject)Instantiate(Resources.Load("prefabs/Catfish_raw"), hand.transform);
+                    item = (GameObject)Instantiate(Resources.Load("prefabs/Meats/Catfish_raw"), hand.transform);
                     item.tag = "meat";
                     item.name = "Catfish_raw";
                     item.transform.parent=hand.transform;
                 }
                 if (isHit && hit.collider.gameObject.name == "rackoflamb_frozen" && !ishandfull && hit.distance < 2)
                 {
-                    item = (GameObject)Instantiate(Resources.Load("prefabs/Rackoflamb_raw"), hand.transform);
+                    item = (GameObject)Instantiate(Resources.Load("prefabs/Meats/Rackoflamb_raw"), hand.transform);
                     item.tag = "meat";
                     item.name = "Rackoflamb_raw";
                     item.transform.parent=hand.transform;
                     //Debug.Log(item.transform.parent);
+                }
+                if (isHit && hit.collider.gameObject.transform.parent!=null && !ishandfull && hit.distance < 3.5)
+                {
+                    if(hit.collider.gameObject.transform.parent.tag == "tool")
+                    {
+                        //Debug.Log("yes");
+                        GameObject tool = hit.collider.gameObject.transform.parent.gameObject;
+                        if (tool.GetComponent<ToolManager>().Toolstate == ToolManager.StateType.idle)
+                        {
+                            ToolManager.ToolType tooltype = tool.GetComponent<ToolManager>().Toolkind;
+                            Destroy(tool);
+                            tool = (GameObject)Instantiate(ToolData.SearchCookingToolByToolType(tooltype), hand.transform);
+                            tool.transform.SetParent(hand.transform);
+                        }
+                        if(tool.GetComponent<ToolManager>().Toolstate ==ToolManager.StateType.empty)
+                        {
+                            tool.transform.SetPositionAndRotation(hand.transform.position, hand.transform.rotation);
+                            tool.transform.SetParent(hand.transform);
+                        }
+                    }
                 }
             }
         }
