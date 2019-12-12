@@ -13,9 +13,10 @@ GameObject:
   - component: {fileID: 23790913934291548}
   - component: {fileID: 95257337452374662}
   - component: {fileID: 136338884729558122}
+  - component: {fileID: 8482945807941630220}
   m_Layer: 0
   m_Name: Potato
-  m_TagString: Untagged
+  m_TagString: vegetable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -112,3 +113,19 @@ CapsuleCollider:
   m_Height: 0.13
   m_Direction: 0
   m_Center: {x: 0.00069942325, y: 0.034020513, z: 0.00396836}
+--- !u!54 &8482945807941630220
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1195104375622288}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0

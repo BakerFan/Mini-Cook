@@ -15,7 +15,6 @@ public class ToolManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        itemplace = transform.GetChild(1).gameObject;
     }
 
     public void Cook()
@@ -29,7 +28,7 @@ public class ToolManager : MonoBehaviour
             Toolstate = StateType.idle;
         else if (transform.name.IndexOf("cooking") != -1)
         {
-            if (itemplace.transform.childCount == 0)
+            if (itemplace.transform.childCount == 0&&!isWater)
                 Toolstate = StateType.empty;
             else if (Toolstate != StateType.cooking)
                 Toolstate = StateType.filled;

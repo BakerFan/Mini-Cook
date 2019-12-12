@@ -11,8 +11,8 @@ GameObject:
   - component: {fileID: 400000}
   - component: {fileID: 5257246557074295278}
   m_Layer: 0
-  m_Name: meatroll
-  m_TagString: Untagged
+  m_Name: Meatroll_raw
+  m_TagString: meat
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
