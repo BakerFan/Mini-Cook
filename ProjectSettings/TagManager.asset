@@ -10,6 +10,7 @@ TagManager:
   - Refrigerator
   - vegetable
   - meat
+  - tool
   layers:
   - Default
   - TransparentFX
