@@ -49,10 +49,10 @@ public class DBManager : MonoBehaviour
         //InsertValues("dish", value2);
 
         ////根据条件查找特定的字段
-        //foreach (var item in SelectData("dish", new string[] { "ingredients" }, new string[] { "name","RackofLamb_dish" }))
+        //foreach (var item in SelectData("dish", new string[] { "ingredients" }, new string[] { "name", "RackofLamb" }))
         //{
         //    string[] a;
-        //    a=item.ToString().Split(',');
+        //    a = item.ToString().Split(',');
         //    foreach (string i in a)
         //    {
         //        Debug.Log(i);
